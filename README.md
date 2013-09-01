@@ -1,0 +1,3 @@
+Need to update the tests...
+
+This was just to test out whether Junior.js performed well enough on a mobile phone with PhoneGap.

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+        xmlns:gap="http://phonegap.com/ns/1.0"
+        id="com.phonegap.demo"
+        version="1.0.0">
+    <name>Demo of PhoneGap running Junior.</name>
+    <description>Coming soon...</description>
+
+	<preference name="webviewbounce" value="false" />
+	<preference name="orientation" value="portrait" />
+</widget>
